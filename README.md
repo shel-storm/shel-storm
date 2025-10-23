@@ -1,5 +1,9 @@
-## Hi there 👋
-
+```python
+for i in 1..10 {
+    println!("Hiii!")
+}
+println!("I'm shel");
+```
 <!--
 **shel-storm/shel-storm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
